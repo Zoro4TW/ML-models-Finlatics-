@@ -159,13 +159,7 @@ This model can help:
 - [ ] Create a Streamlit dashboard for interactive predictions
 - [ ] A/B testing framework for strategy optimization
 
----
 
-## 📚 References
-
-- [Link to dataset source]
-- [Relevant research papers]
-- [Documentation references]
 
 ---
 
