@@ -119,7 +119,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Your Name**
 - GitHub: [@Zoro4TW](https://github.com/Zoro4TW)
-- LinkedIn: [Your LinkedIn Profile]
+- LinkedIn: (https://www.linkedin.com/in/ashwin-jaishanker-46220b31b/)
 
 ---
 
